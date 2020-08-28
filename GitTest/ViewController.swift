@@ -17,6 +17,7 @@ class ViewController: UIViewController {
 
  //test
     private func text() {
+        print("test")
 }
 
 }
